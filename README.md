@@ -1,8 +1,11 @@
 # Model-Complexity-and-Input-Representations-on-EMG-Based-Hand-Gesture-Classification
 
+
 We split up the code from our various python notebook (.ipynb) files from Google Colab into python (.py) files for readability
 
+
 For all tests run:
+
 setup.py - Gathers all imports to set up environment, mounts to grab the necessary Ninapro DB1 files from your Google Drive
 
 functions.py - Makes sure we have all the necessary functions to run classifier model scripts and sort scripts
