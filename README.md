@@ -1,0 +1,1 @@
+# Model-Complexity-and-Input-Representations-on-EMG-Based-Hand-Gesture-Classification
