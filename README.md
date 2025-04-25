@@ -8,7 +8,7 @@ For all tests run:
 
 setup.py - Gathers all imports to set up environment, mounts to grab the necessary Ninapro DB1 files from your Google Drive
 
-functions.py - Makes sure we have all the necessary functions to run classifier model scripts and sort scripts
+functions.py - Makes sure we have all the necessary functions to run classifier model scripts and sort scripts. Within the makecsv file, change gesturelist[] to encompass all gestures you want to identify.
 
 sort[num].py - Choose to run the file with the # of gestures you want to sort (10, 25, 53), and at very bottom of that file, determine the data you want to extract: time domain (TD), fast fourier transform (FFT), discrete wavelet transform (DWT), or a combination of them.
 
